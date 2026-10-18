@@ -16,6 +16,6 @@ mediakit	?palette=default&no-logo=yes
 |fonts	cursive=Eagle+Lake&menu=Quintessential&menu-size=1.3rem
 
 |technical
-sections	from-tsv
+sections	ashram, healing
 local-url	http://localhost/missions/ashrams/guru/
 live-url	https://guru.missions.amadeusweb.in/
