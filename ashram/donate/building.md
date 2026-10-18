@@ -1,0 +1,8 @@
+Temple
+
+Ashram
+
+Residence
+
+Shantivanam
+

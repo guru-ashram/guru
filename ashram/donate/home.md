@@ -1,0 +1,1 @@
+Here are the funding opportunities at our flourishing ashram.

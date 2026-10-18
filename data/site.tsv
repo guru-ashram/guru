@@ -1,0 +1,21 @@
+#key	value
+name	Gurmurthi Swamigal Ashram
+byline	A DAWN Site
+year	2022
+
+|labels and messages
+iconName	Guru Ashram
+siteMenuName	GM Home
+description	Ashram for Gurmurthi Swamigal
+welcome-message	This is a DAWN Site
+footer-message	Srilasri Gnana Gurmurthi Swamigal Ashram
+
+|img and styles
+safeName	amadeusweb	//NOTE: used in getLogoOr
+mediakit	?palette=default&no-logo=yes
+|fonts	cursive=Eagle+Lake&menu=Quintessential&menu-size=1.3rem
+
+|technical
+sections	from-tsv
+local-url	http://localhost/missions/ashrams/guru/
+live-url	https://guru.missions.amadeusweb.in/

@@ -1,0 +1,1 @@
+Satsang, speaking events etc
