@@ -1,14 +1,14 @@
 #key	value
-name	Gurmurthi Swamigal Ashram
+name	Gurumurthi Swamigal Ashram
 byline	A DAWN Site
 year	2022
 
 |labels and messages
-iconName	Guru Ashram
+iconName	Gurumurthi Swamigal
 siteMenuName	GM Home
-description	Ashram for Gurmurthi Swamigal
+description	Ashram for Gurumurthi Swamigal
 welcome-message	This is a DAWN Site
-footer-message	Srilasri Gnana Gurmurthi Swamigal Ashram
+footer-message	Srilasri Gnana Gurumurthi Swamigal Ashram
 
 |img and styles
 safeName	amadeusweb	//NOTE: used in getLogoOr
@@ -17,5 +17,5 @@ mediakit	?palette=default&no-logo=yes
 
 |technical
 sections	ashram, healing
-local-url	http://localhost/missions/ashrams/guru/
-live-url	https://guru.missions.amadeusweb.in/
+local-url	http://localhost/amadeusweb/initiatives/guru/
+live-url	https://guru.amadeusweb.in/

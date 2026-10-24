@@ -1,10 +1,12 @@
-#What	Description	Value	Frequency	Raised
+#What	Description	Fields	Amount	Frequency	Raised
 |is-table
+||head-columns: Item, Amount, Raised
+||row-template: <tr><td><h3>%What% &mdash; %Description%</h3>%Fields%</td><td>%Amount% (%Frequency%)</td><td>%Raised%</td>
 ||engage: yes
 ||email: +donations
 ||before-content: Our Ashram in Vettuvankeni supports **Gurumurthi Swamigal**, gives Ashirvadam to Devotees and is the Bhoomi tapo where **daily 1008 Archanai** is done to **Amman Devi**.<hr />
 
-Puja Items	Kumkumam, Ghee and Oil[field]	Rs 1,000	Weekly	-
-Rent	Stay in Vettuvankeni[field]	Rs 7,000	Monthly	2,500
-Food Items	Vegetables, Provisions, Essentials[field]	Rs 2,000	Weekly	750
-Table	Table for Ashram Work[field]	Rs 1,500	Once	-
+Puja Items	Kumkumam, Ghee and Oil	[field]	Rs 1,000	Weekly	-
+Rent	Stay in Vettuvankeni	[field]	Rs 7,000	Monthly	2,500
+Food Items	Vegetables, Provisions, Essentials	[field]	Rs 2,000	Weekly	750
+Table	For Ashram Work	[field]	Rs 1,500	Once	Gifted
